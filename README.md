@@ -4,7 +4,7 @@ I'm a second-year Computing and Financial Management student at the University o
 
 I'm always looking to learn - Feel free to reach out.
 
-[Email](h239lu@uwaterloo.ca) | [LinkedIn](https://linkedin.com/in/harryhlu)
+[Email](mailto:h239lu@uwaterloo.ca) | [LinkedIn](https://linkedin.com/in/harryhlu)
 
 ## Tech Stack
 
