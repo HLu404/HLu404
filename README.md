@@ -1,4 +1,10 @@
+## Hey, I'm Harry 👋
 
+I'm a second-year Computing and Financial Management student at the University of Waterloo. I'm interested in machine learning, data science, and building things that work with real data.
+
+I'm always looking to learn - Feel free to reach out.
+
+📫 h239lu@uwaterloo.ca | [LinkedIn](https://linkedin.com/in/harryhlu)
 
 ## Tech Stack
 
